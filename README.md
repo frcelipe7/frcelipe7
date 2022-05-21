@@ -1,5 +1,8 @@
 ### Olá! Eu sou Felipe Raphael 👋
-          
+
+<img src="90%" margin="20px auto" height="200px" object-fit="cover" src=""/>
+
+
   <div align="center">
     <a href="https://github.com/frcelipe7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frcelipe7&layout=compact&langs_count=7&theme=dracula"/>
