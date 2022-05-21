@@ -1,6 +1,9 @@
 ### Olá! Eu sou Felipe Raphael 👋
 
-<img src="90%" margin="20px auto" height="200px" object-fit="cover" src=""/>
+  <div class="img">
+    <img src="90%" margin="20px auto" height="200px" src="bg.jpg"/>
+  </div>
+  
 
 
   <div align="center">
