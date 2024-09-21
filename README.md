@@ -19,8 +19,8 @@ I am currently studying Artificial Intelligence and plan to study Cloud, Microse
   This website collects our location and shows us the current weather. It uses an API from [Weather API](https://openweathermap.org/api) to display information.
 
 ## Certifications 🎓
-- **CS50's Web Programming With Python and JavaScript** - HARVARDX, 2022 - [See Credential](https://certificates.cs50.io/cbce5229-c2f3-453f-8bcc-4992ef105792.pdf?size=letter);
-- **English Certificate C1 Advanced** - EF SET, 2024 - [See Credential](https://cert.efset.org/ngxuh7);
+- **CS50's Web Programming With Python and JavaScript** - HARVARDX, 2022 - <a target="_blank" href="https://certificates.cs50.io/cbce5229-c2f3-453f-8bcc-4992ef105792.pdf?size=letter">See Credential</a>;
+- **English Certificate C1 Advanced** - EF SET, 2024 - <a target="_blank" href="https://cert.efset.org/ngxuh7">See Credential</a>;
 - **Software Engineering** - UEPA, 2027;
 - **Electroelectronic Technician** - IFPA, 2021.
 
@@ -31,9 +31,9 @@ I am currently studying Artificial Intelligence and plan to study Cloud, Microse
 - 🎖️🧮 **OBMEP** (Math and Logic Olympiad) - Honorable Mention in 2016, 2017, and 2018.
 
 ## Social 🤝
-- LinkedIn: [https://www.linkedin.com/in/frcelipe7](https://www.linkedin.com/in/frcelipe7/)
-- Web Site: [https://frcelipe7.github.io](https://frcelipe7.github.io/)
-- Email: feliperaphaelpara@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/frcelipe7](https://www.linkedin.com/in/frcelipe7/){:target="_blank"};
+- Web Site: [https://frcelipe7.github.io](https://frcelipe7.github.io/){:target="_blank"};
+- Email: feliperaphaelpara@gmail.com.
 
 [<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/frcelipe7/)
 [<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://frcelipe7.github.io/)
