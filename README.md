@@ -31,9 +31,9 @@ I am currently studying Artificial Intelligence and plan to study Cloud, Microse
 - 🎖️🧮 **OBMEP** (Math and Logic Olympiad) - Honorable Mention in 2016, 2017, and 2018.
 
 ## Social 🤝
-- LinkedIn: [https://www.linkedin.com/in/frcelipe7](https://www.linkedin.com/in/frcelipe7/){:target="_blank"};
-- Web Site: [https://frcelipe7.github.io](https://frcelipe7.github.io/){:target="_blank"};
-- Email: feliperaphaelpara@gmail.com.
+- LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/frcelipe7">https://www.linkedin.com/in/frcelipe7</a>;
+- Web Site: <a target="_blank" href="https://frcelipe7.github.io">https://frcelipe7.github.io</a>;
+- Email: <a target="_blank" href="mailto:feliperaphaelpara@gmail.com">feliperaphaelpara@gmail.com</a>.
 
 [<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/frcelipe7/)
 [<img height="30px" marginLeft="5px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">](https://frcelipe7.github.io/)
@@ -41,12 +41,12 @@ I am currently studying Artificial Intelligence and plan to study Cloud, Microse
 
 <div>
     <h2>Technologies 🛠️</h2>
-    <div style="display: flex;" class="tecnologias">
+    <div style="display: flex;">
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+        <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
         <img width="50px;" height="50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
