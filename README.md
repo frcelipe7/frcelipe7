@@ -6,9 +6,11 @@ As a Software Engineering student, my goal is to obtain maximum knowledge to com
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=frcelipe7&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frcelipe7&layout=compact&theme=dark">
 
 ## Experience 💼
-I have experience in ***web development*** with Django and JavaScript, ***designing and prototyping*** with Figma, ***modeling*** UML in Lucidchart, and ***deploying*** on Apache servers.
+I have a strong foundation in web development, particularly with Django and JavaScript, where I've built functional and user-focused applications. My expertise extends to UI/UX design and prototyping using Figma, crafting visually appealing and user-friendly interfaces.
 
-I am currently studying Artificial Intelligence and plan to study Cloud, Microservices, React, Node.js, and C++.
+I've worked with UML modeling in tools like Lucidchart, enabling clear and efficient system documentation. In deployment, I have hands-on experience with Apache servers, optimizing and managing projects for robust and scalable environments.
+
+Additionally, I have experience developing business software for attendance tracking, personal evaluation, and certification systems. These projects enhanced my problem-solving skills and provided insights into real-world software needs.
 
 ## Projects 💻
 - **AI for Tic Tac Toe**: [Repository Link](https://github.com/Engenharia-de-Software-da-UEPA/ia-jogo-da-velha); <br>
